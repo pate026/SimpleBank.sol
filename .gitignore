@@ -1,0 +1,22 @@
+# Foundry
+cache/
+out/
+broadcast/
+
+# Dependencies
+lib/
+
+# Environment
+.env
+.env.*
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+privatekey.env
